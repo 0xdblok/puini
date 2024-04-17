@@ -22,7 +22,7 @@ export default function Life() {
           <div className="flex justify-center">
             <Image className="" src={idea} alt=" " width={150} height={150} />
           </div>
-          <p className="text-sm">Alweays get great idea</p>
+          <p className="text-sm">Always get great idea</p>
         </div>
         <div className="w-1/3">
           <div className="flex justify-center">
