@@ -18,7 +18,7 @@ export default function Hero() {
             />
           </div>
           <h1 className="text-medium font-medium font-serif text-center text-gray-700">
-            PINK PUNI
+            PUNI
           </h1>
         </div>
         <div className=" md:flex md:w-1/2 md:items-center ">
