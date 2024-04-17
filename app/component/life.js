@@ -5,8 +5,8 @@ import search from "../asset/search.png";
 import Image from "next/image";
 export default function Life() {
   return (
-    <div className="text-black">
-      <h1 className="text-center pt-16">Lifestyle</h1>
+    <div className="text-black font-serif">
+      <h1 className="text-center pt-16 text-xl">Lifestyle</h1>
 
       <div className="pt-6 flex text-center gap-6 justify-center">
         {" "}

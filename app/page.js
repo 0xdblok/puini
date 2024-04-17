@@ -7,7 +7,7 @@ import Tokenomics from "./component/tokenomics";
 
 export default function Home() {
   return (
-    <main className="bg-[#F2F0F1] px-8 ">
+    <main className="bg-[#F2F0F1] px-4 md:px-16 lg:px-32">
       <Hero />
       <Life />
       <Tokenomics />

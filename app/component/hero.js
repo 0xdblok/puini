@@ -12,7 +12,7 @@ export default function Hero() {
         </div>
         <div className=" md:flex md:w-1/2 md:items-center ">
           {" "}
-          <h1 className="text-xl  text-center text-gray-700">
+          <h1 className="text-xl font-serif text-center text-gray-700">
             Hiùm with shades on, holding a magnifying glass, symbolizing
             research and exploration
           </h1>
