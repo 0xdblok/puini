@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="flex justify-center md:w-1/2">
           {" "}
           <Image
-            className=" rounded-full bg-[#F5E6E8]"
+            className=" rounded-full bg-slate-50"
             src={hero}
             alt=" "
             width={350}
