@@ -6,9 +6,15 @@ export default function Hero() {
     <div>
       <div className="flex-none   md:flex md:justify-center md:gap-32 pt-8">
         {" "}
-        <div className="md:w-1/2">
+        <div className="flex justify-center md:w-1/2">
           {" "}
-          <Image className="" src={hero} alt=" " width={350} height={350} />
+          <Image
+            className=" rounded-full"
+            src={hero}
+            alt=" "
+            width={350}
+            height={350}
+          />
         </div>
         <div className=" md:flex md:w-1/2 md:items-center ">
           {" "}

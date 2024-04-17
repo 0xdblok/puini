@@ -13,7 +13,7 @@ export default function Tokenomics() {
       <div>
         <div className="text-center pt-16">
           <h1 className="text-xl">TOTAL SUPPLY</h1>
-          <p>10B</p>
+          <p>1B</p>
 
           <h1 className="pt-4 text-xl">CONTRACT ADDRESS</h1>
           <p>TBA</p>
