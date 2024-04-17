@@ -21,8 +21,10 @@ export default function Hero() {
         <div className=" md:flex md:w-1/2 md:items-center ">
           {" "}
           <h1 className="text-xl pt-6 md:pt-0 font-serif text-center text-gray-700">
-            Puni shades on, holding a magnifying glass, symbolizing research and
-            exploration
+            Puni is a pink rabbit which exist in land of Baseana. He has ability
+            to predict where to find the right spot to climb up to the moon. He
+            has a rare attribute which gives him green big banana that will blow
+            your roof. Ohh Sh*
           </h1>
         </div>
       </div>
