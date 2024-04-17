@@ -5,9 +5,9 @@ export default function Tokenomics() {
     <div className="text-black font-serif">
       <div className="text-center">
         <h1 className="pt-20 text-center text-xl">Tokenomics</h1>
-        <p className="pt-4">80% LP</p>
-        <p>10% MARKETING</p>
-        <p>10% TEAM</p>
+        <p className="pt-4">100% LP</p>
+        <p>0% MARKETING</p>
+        <p>0% TEAM</p>
       </div>
 
       <div>
@@ -16,7 +16,7 @@ export default function Tokenomics() {
           <p>1B</p>
 
           <h1 className="pt-4 text-xl">CONTRACT ADDRESS</h1>
-          <p>TBA</p>
+          <p>0xC55EbF24B0efA2feE87875Fc79f1Ae5A8EaD1b46</p>
         </div>
       </div>
     </div>
