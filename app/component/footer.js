@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <div className="animate__animated animate__fadeInUp">
       <div className="flex gap-2 pt-10 justify-end pb-4 ">
-        <a href="">
+        <a href="https://x.com/basepuni">
           {" "}
           <Image
             className="lg:w-[40px] lg:h-[40px]"
