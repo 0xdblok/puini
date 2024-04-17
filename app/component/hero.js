@@ -17,7 +17,7 @@ export default function Hero() {
               height={350}
             />
           </div>
-          <h1 className="text-xl font-serif text-center text-gray-700">
+          <h1 className="text-medium font-medium font-serif text-center text-gray-700">
             PINK PUNI
           </h1>
         </div>
