@@ -17,15 +17,11 @@ export default function Hero() {
               height={350}
             />
           </div>
-          <h1 className="text-medium font-medium font-serif text-center text-gray-700">
-            PUNI
-          </h1>
         </div>
         <div className=" md:flex md:w-1/2 md:items-center ">
           {" "}
           <h1 className="text-xl pt-6 md:pt-0 font-serif text-center text-gray-700">
-            Hiùm with shades on, holding a magnifying glass, symbolizing
-            research and exploration
+            PUNI
           </h1>
         </div>
       </div>
